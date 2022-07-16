@@ -1,13 +1,12 @@
-# Evaluation Metrics for Classification
-
-> This post covers few of the most commonly used evaluation metrics used for classification, when they should be used and their drawbacks
-
-- categories: [metrics, classification]
-- badges: true
-- comments: true
-- search_exclude: false
-- image: images/b2_classification-metrics/post.jpeg
-
+---
+title: "Evaluation Metrics for Classification"
+description: "This post covers few of the most commonly used evaluation metrics used for classification, when they should be used and their drawbacks"
+categories: [metrics, classification]
+badges: true
+comments: true
+search_exclude: false
+image: images/b2_classification-metrics/post.jpeg
+---
 ### Why do we need a metric in the first place
 
 In machine learning (supervised learning to be exact), our objective is to create a mathematical model that helps us make predictions based on some prior distribution of independent and dependent variables that we have and update the model weights in a way that we minimize loss. The loss function is a mathematical function that helps the algorithm converge, but for layman interpretation, it is not of much use (most of the time).
